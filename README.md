@@ -94,11 +94,11 @@ We first create a Service and a Data model for consuming the API
 
 We create a **Service** and a **Data** folders
 
-![image](https://github.com/user-attachments/assets/8f34ccb0-c2c9-4b7b-b259-efa286245973)
+![image](https://github.com/user-attachments/assets/10bde17c-4142-48b4-9d5a-426af6e89bd7)
 
 We create the **Data model** in the file **WeatherForecast.cs**
 
-![image](https://github.com/user-attachments/assets/b76e57e9-ede7-43f6-96e6-7a541d35e50c)
+![image](https://github.com/user-attachments/assets/e26b9198-8d0e-4b45-99fc-b0a3ad8606f0)
 
 ```csharp
 namespace BlazorWebApp.Data
@@ -118,7 +118,7 @@ namespace BlazorWebApp.Data
 
 We also define the **Service** in the file **WeatherForecastService.cs**
 
-![image](https://github.com/user-attachments/assets/63db0ccf-c970-4690-867a-3045c0f92694)
+![image](https://github.com/user-attachments/assets/86abfed3-c516-4b89-83df-bd6e6e001435)
 
 ```csharp
 using BlazorWebApp.Data;
