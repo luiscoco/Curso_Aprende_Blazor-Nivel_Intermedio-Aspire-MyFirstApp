@@ -8,7 +8,7 @@ https://learn.microsoft.com/en-us/training/paths/dotnet-aspire/
 
 We run Visual Studio 2022 Community Edition and create a new project
 
-![image](https://github.com/user-attachments/assets/ddcffe94-85d0-420f-9d3e-c3fe7f39baed)
+![image](https://github.com/user-attachments/assets/ade8b6f0-ba7a-4fc5-b865-80e1af1eb750)
 
 We select the Blazor Web App project template
 
