@@ -52,23 +52,23 @@ We verify in the Solution Explorer both projects inside my solution
 
 We create a new folder **BlazorWebApp**
 
-![image](https://github.com/user-attachments/assets/c89ec71b-3f5d-4a98-96d7-ab99a96e3ec4)
+![image](https://github.com/user-attachments/assets/cd1dbfab-d63c-4431-a6aa-49fdc4a4575b)
 
 We move the Blazor Web Application code inside to that folder
 
-![image](https://github.com/user-attachments/assets/34682cb0-d563-471b-b4c8-b23ecdfa4c57)
+![image](https://github.com/user-attachments/assets/a0b07848-c490-42a2-a472-829831ded4f0)
 
 We edit  the solution file to include the new Blazor Web App location
 
-![image](https://github.com/user-attachments/assets/9cbcb805-5c5e-4d2f-bb7e-fd99e55e15c9)
+![image](https://github.com/user-attachments/assets/1ee15a5f-6b84-4f00-98a7-8195ae7c8d5c)
 
 We save the modified solution file
 
-![image](https://github.com/user-attachments/assets/3d29a9cf-ae01-4f64-8902-4b05225d103c)
+![image](https://github.com/user-attachments/assets/1ac51282-c849-434e-92f2-fdad5ef0c1ec)
 
 We open the solution in Visual Studio 2022
 
-![image](https://github.com/user-attachments/assets/c0bc8e56-867d-41b3-aef3-9490c2d51d8b)
+![image](https://github.com/user-attachments/assets/12134b70-7f1a-47f9-9190-8f422e9681a5)
 
 ## 4. Run both projects to verify them
 
