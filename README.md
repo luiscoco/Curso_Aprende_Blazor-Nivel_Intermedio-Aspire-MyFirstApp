@@ -12,41 +12,41 @@ We run Visual Studio 2022 Community Edition and create a new project
 
 We select the Blazor Web App project template
 
-![image](https://github.com/user-attachments/assets/0efe8a25-d67f-452a-8130-e0984dc46d3f)
+![image](https://github.com/user-attachments/assets/4132c37f-a79f-4fc3-bce9-370266d06ef4)
 
 We input the project name and location
 
-![image](https://github.com/user-attachments/assets/a9168373-669e-4e2c-9526-9271520a9d2e)
+![image](https://github.com/user-attachments/assets/2f71aa66-e300-46f9-b2d3-564c388f78f8)
 
 We select the .NET 9 framework
 
-![image](https://github.com/user-attachments/assets/f371adf6-a0bd-43fe-8881-244dd74517ae)
+![image](https://github.com/user-attachments/assets/00d33db5-d835-4a79-a93c-597276d13089)
 
 We verify the project folders structure
 
-![image](https://github.com/user-attachments/assets/58b1ca48-9e2f-4081-a8a5-ecf98e643a5c)
+![image](https://github.com/user-attachments/assets/11b68cd4-decd-49db-b12a-6f8c1ee2b29a)
 
 ## 2. Add a new project with the template .NET Core Web API
 
 We right click on the Solution and we select the menu option add new project
 
-![image](https://github.com/user-attachments/assets/2a89ddfa-582f-47d8-9b14-9ab19a8bf8e1)
+![image](https://github.com/user-attachments/assets/c05ca930-dc51-43d9-94d4-0616c6fc2db5)
 
 We search for the Web API project templates and we select the **ASP.NET Core Web API**
 
-![image](https://github.com/user-attachments/assets/632357fc-64c7-42e5-ade6-4e9fcc8eeb38)
+![image](https://github.com/user-attachments/assets/f530a1ec-f2d0-40b6-9f09-041154ffe07f)
 
 We input the project name, we select the project folder and press the next button
 
-![image](https://github.com/user-attachments/assets/91f588db-c9bd-4d5f-b4e0-a1eeb0366b03)
+![image](https://github.com/user-attachments/assets/213b2de9-f70a-4534-9055-3a4bc6f34e28)
 
 We select the .NET 9 framework and we leave the other fields with the default values
 
-![image](https://github.com/user-attachments/assets/380e3e29-3306-4dd2-883f-c83a9e16960e)
+![image](https://github.com/user-attachments/assets/5e5122b5-3977-417c-aa0b-14b36170854b)
 
 We verify in the Solution Explorer both projects inside my solution
 
-![image](https://github.com/user-attachments/assets/e181c7c4-41db-42d6-95db-b3ce6a7cbd4a)
+![image](https://github.com/user-attachments/assets/0dbc2495-cca9-49dd-8489-781c5b8d0d3d)
 
 ## 3. Move the BlazorWebApp project into a new folder
 
