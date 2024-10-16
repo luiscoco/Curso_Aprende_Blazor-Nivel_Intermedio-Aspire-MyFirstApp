@@ -307,37 +307,37 @@ We confirm all the Nuget packages were updated
 
 We right click on the solution and select the menu option add new project
 
-![image](https://github.com/user-attachments/assets/7532ad65-d680-4c4b-91f0-824e3aa23ff0)
+![image](https://github.com/user-attachments/assets/82675e50-e0bf-4e4c-b230-54c8d2ee5316)
 
 We select the project template **.NET Aspire Service Defaults** and we press the Next button 
 
-![image](https://github.com/user-attachments/assets/074af83f-76d5-44d2-a686-39dec8cc8c61)
+![image](https://github.com/user-attachments/assets/36f585f2-b0e2-4bd3-bf0c-8a9e35861abb)
 
 We input the project name and location and we press the Next button 
 
-![image](https://github.com/user-attachments/assets/c1e6f1af-0344-4d32-b259-ed9893109a3a)
+![image](https://github.com/user-attachments/assets/a9b621c6-a3e7-4795-9e0b-7c6d552c65ca)
 
 We select the .NET8 framework and we press the Create button
 
-![image](https://github.com/user-attachments/assets/c2022cf0-7332-4203-bd1f-fa170a03f8f4)
+![image](https://github.com/user-attachments/assets/e838a974-cb82-4b24-b6c3-8e27043abc48)
 
 This is our solution projects structure
 
-![image](https://github.com/user-attachments/assets/957f8cdf-1ca6-43ef-b188-8b835775f585)
+![image](https://github.com/user-attachments/assets/12a63047-0dff-4e67-a6dc-f3f869ee16ef)
 
 Now if we review the **Blazor Web App** and the **Web API** projects, we can verify that automatically in our projects were include a reference to the **ServerDefault** project
 
-![image](https://github.com/user-attachments/assets/2e6a9126-756c-4610-82a3-ac61e06f056a)
+![image](https://github.com/user-attachments/assets/bbb90eaa-9e10-4cb2-a6e4-3d2171d61359)
 
 Also if we review the middleware in both projects we confirm new code was added:
 
 **Blazor Web App middleware**
 
-![image](https://github.com/user-attachments/assets/703f2f6e-0d2f-4f50-a61e-6a890b0a54c3)
+![image](https://github.com/user-attachments/assets/452d90df-b159-4427-a807-24b08a7d9507)
 
 **Web API middleware**
 
-![image](https://github.com/user-attachments/assets/1903b7e5-fdf0-4465-b350-13064bbede25)
+![image](https://github.com/user-attachments/assets/03110281-7018-4db8-87f6-b3b4db5df62d)
 
 ## 8. Add in both project .NET Aspire Orchestrator Support
 
