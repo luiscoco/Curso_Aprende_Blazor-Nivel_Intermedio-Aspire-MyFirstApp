@@ -343,38 +343,39 @@ Also if we review the middleware in both projects we confirm new code was added:
 
 We first right click on the API project name and select the menu option **Add->.NET Aspire Orchestrator Support...**
 
-![image](https://github.com/user-attachments/assets/b0bc392b-0567-435c-a9ce-a430253e5443)
+![image](https://github.com/user-attachments/assets/b808cd4a-cbff-4888-b3e5-a4056b388e5e)
 
-![image](https://github.com/user-attachments/assets/8164cf46-9c3d-4a04-8213-954964c261b6)
+![image](https://github.com/user-attachments/assets/28b4f699-db8c-4231-96dc-093c38ca8fdf)
 
 We also right click on the Blazor Web App project name and select the menu option **Add->.NET Aspire Orchestrator Support...**
 
-![image](https://github.com/user-attachments/assets/c0f74827-b24d-4f35-a684-786907c3d5d7)
+![image](https://github.com/user-attachments/assets/82a15a5e-b95a-41d9-a5fc-0475a724b0d0)
 
-![image](https://github.com/user-attachments/assets/63b7891d-f1d8-45a5-aa2b-994ab15f5669)
+![image](https://github.com/user-attachments/assets/1defd3d1-9652-4e7f-8a1f-9133f93ac808)
 
 We verify both projects references were added in the **AppHost1.csproj** file
 
-![image](https://github.com/user-attachments/assets/ec51d80a-e3b3-4864-b812-77bf25fa5bea)
+![image](https://github.com/user-attachments/assets/323e9743-8284-448c-83ab-9cffaceb1cfa)
 
 And also the **Program.cs** in the **AppHost1** was modified
 
-![image](https://github.com/user-attachments/assets/5d5de4c0-510c-4c10-8aa0-9252cfdb62c3)
+![image](https://github.com/user-attachments/assets/cb471680-d83d-4e93-900c-8cba89a51796)
 
 ## 9. Run the application
 
 We press on the HTTPS protocol after setting as start up project the Host 
 
-![image](https://github.com/user-attachments/assets/0e311fb6-492f-47ab-b7e7-ad0ef0814e9b)
+![image](https://github.com/user-attachments/assets/79a9c1bd-42e0-4428-a6f2-7832edbf41cb)
 
 We first see the Dashboard running in this URL: https://localhost:17291/
 
-![image](https://github.com/user-attachments/assets/1b50c379-30c5-4564-a099-0b4a9acedc31)
+![image](https://github.com/user-attachments/assets/f43786ee-fec6-452c-9f92-3edfd01e00a2)
 
 We can navigate to the **Blazor Web App URL**: https://localhost:7159/
 
-![image](https://github.com/user-attachments/assets/5fb430c1-95fa-4fd1-8783-1b877dc3c00f)
+![image](https://github.com/user-attachments/assets/ecbe3367-bb6a-4756-b46a-ffd3bdd62767)
 
 We can also navigate to the **Web API URL**:
 
-![image](https://github.com/user-attachments/assets/00159171-bcf5-4995-9fbe-67c07438fde9)
+![image](https://github.com/user-attachments/assets/968be20b-35eb-4071-aac6-2e37727be174)
+
