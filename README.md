@@ -48,7 +48,7 @@ We verify in the Solution Explorer both projects inside my solution
 
 ![image](https://github.com/user-attachments/assets/e181c7c4-41db-42d6-95db-b3ce6a7cbd4a)
 
-## 3. Move the Web API project in a new folder
+## 3. Move the BlazorWebApp project in a new folder
 
 We create a new folder **BlazorWebApp**
 
