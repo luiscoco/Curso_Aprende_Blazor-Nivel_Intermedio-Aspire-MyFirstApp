@@ -74,19 +74,19 @@ We open the solution in Visual Studio 2022
 
 First we right click on **BlazorWebApp.csproj** and select the menu option **Set as StartUp Project**
 
-![image](https://github.com/user-attachments/assets/c39e2112-552a-4f42-bf1d-29bf0bb97efb)
+![image](https://github.com/user-attachments/assets/12d08a70-c7f9-4306-b1f3-be73dba1591b)
 
 We run the project and see the result:
 
-![image](https://github.com/user-attachments/assets/72b67be6-b2cf-4544-b435-38675e6274f0)
+![image](https://github.com/user-attachments/assets/a09664d1-53ca-412b-8f44-0a9978c7eb8f)
 
 Now we right click on **WebAPIWeatherForecast** and select the menu option **Set as StartUp Project**. See the result:
 
-![image](https://github.com/user-attachments/assets/00ecfe4d-faaa-48c0-8da8-06579181fb5a)
+![image](https://github.com/user-attachments/assets/c0e61242-a93d-4d50-9cf2-ab89002ea4c0)
 
 We run the project and see the result:
 
-![image](https://github.com/user-attachments/assets/20887317-89ca-4121-add6-0baf4b1667c0)
+![image](https://github.com/user-attachments/assets/746ddf30-b7e4-4718-8757-b8a9078b4fd8)
 
 ## 5. Modify the Blazor Web App to consume the .NET Core Web API
 
