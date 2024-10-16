@@ -277,31 +277,31 @@ app.Run();
 
 We right click on the solution and select the menu option add new project
 
-![image](https://github.com/user-attachments/assets/7532ad65-d680-4c4b-91f0-824e3aa23ff0)
+![image](https://github.com/user-attachments/assets/04e5d817-93a7-4355-a9b4-05902c8e29f6)
 
 We search for the Aspire project templates and selec the **.NET Aspire App Host** and we click on the Next button
 
-![image](https://github.com/user-attachments/assets/039aa36b-f859-4420-9399-9e3395c97956)
+![image](https://github.com/user-attachments/assets/138109d8-c6d4-4715-9335-858f71886fb0)
 
 Then we input the project name and location and we press the Next button
 
-![image](https://github.com/user-attachments/assets/ef3fe023-5611-4bcf-9e14-3d8b0a08e2f8)
+![image](https://github.com/user-attachments/assets/09faa2b1-caae-4d2f-aeec-87db6bc00b2c)
 
 Then we select the .NET 8 framework and we press the Create button
 
-![image](https://github.com/user-attachments/assets/8184935e-a8b7-4a17-8521-9acdfa56f601)
+![image](https://github.com/user-attachments/assets/15959733-f45c-4565-b14f-1fb9cb3f25a3)
 
 We update the Nuget packages
 
-![image](https://github.com/user-attachments/assets/efa8ba23-2b32-433a-a513-95dbdc9b0d59)
+![image](https://github.com/user-attachments/assets/3d9b82ef-f2bf-4cbf-8da7-b4954b3707fd)
 
-We select the Updates tab and select all and then press the Updat button
+We select the Updates tab and select all and then press the Update button
 
-![image](https://github.com/user-attachments/assets/95636146-a0db-4185-b0ba-2849b61f58cf)
+![image](https://github.com/user-attachments/assets/e5356e70-a89c-49cd-b464-b94c227e46d6)
 
 We confirm all the Nuget packages were updated
 
-![image](https://github.com/user-attachments/assets/c002c3b5-530e-4481-9015-c027c1fd4405)
+![image](https://github.com/user-attachments/assets/ae19a2c1-ea44-4106-8c4d-619ebd940cf0)
 
 ## 7. Add the ServerDefault Aspire project
 
